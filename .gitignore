@@ -1,0 +1,14 @@
+# Course video files (large binaries — stored locally only)
+videos/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Env
+.env
+.venv/
+venv/
+
+.DS_Store
