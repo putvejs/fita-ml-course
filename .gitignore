@@ -1,5 +1,6 @@
 # Course video files (large binaries — stored locally only)
 videos/
+*.mp4
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
